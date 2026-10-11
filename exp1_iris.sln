@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "exp1_iris", "exp1_iris.pyproj", "{15F4BF6A-02C1-4B21-B25B-43EFFA01E2BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F4BF6A-02C1-4B21-B25B-43EFFA01E2BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F4BF6A-02C1-4B21-B25B-43EFFA01E2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B6AC98A-4BA9-405A-BF60-BAA5DB7EB842}
+	EndGlobalSection
+EndGlobal
